@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/vue-virtual-scroller.git"
+    "url": "https://github.com/zazos-team/vue-virtual-scroller.git"
   },
   "bugs": {
     "url": "https://github.com/Akryum/vue-virtual-scroller/issues"
