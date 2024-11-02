@@ -1,5 +1,5 @@
 {
-  "name": "vue-virtual-scroller",
+  "name": "@zazos-team/vue-virtual-scroller",
   "description": "Smooth scrolling for any amount of data",
   "version": "2.0.0-beta.8",
   "author": {
@@ -65,5 +65,8 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
