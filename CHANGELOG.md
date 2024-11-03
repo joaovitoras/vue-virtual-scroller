@@ -1,3 +1,21 @@
+# [2.0.0-beta.9](https://github.com/zazos-team/vue-virtual-scroller/compare/v2.0.0-beta.8...v2.0.0-beta.9) (2024-11-03)
+
+
+### Bug Fixes
+
+* avoid rendering when slot is unused ([#787](https://github.com/zazos-team/vue-virtual-scroller/issues/787)) ([2bd549d](https://github.com/zazos-team/vue-virtual-scroller/commit/2bd549d22f141214e54186d635c248e8bfda53f2))
+* index lost, fix [#783](https://github.com/zazos-team/vue-virtual-scroller/issues/783) ([#784](https://github.com/zazos-team/vue-virtual-scroller/issues/784)) ([4aa6b35](https://github.com/zazos-team/vue-virtual-scroller/commit/4aa6b353ca42b24ac5f8c459920d5df221d3626f))
+* **RecycleScroller:** Introduce an item wrapper to reduce re-render ([#742](https://github.com/zazos-team/vue-virtual-scroller/issues/742)) ([14faf2a](https://github.com/zazos-team/vue-virtual-scroller/commit/14faf2a5ac5e3ed4b75f9b4ccfbdbfdd6825e99d))
+* Rewrite view (re-)assignment logic ([#743](https://github.com/zazos-team/vue-virtual-scroller/issues/743)) ([b7c0e52](https://github.com/zazos-team/vue-virtual-scroller/commit/b7c0e521837c49b285a7b3164191cf13ce7805df))
+
+
+### Features
+
+* items ref ([#789](https://github.com/zazos-team/vue-virtual-scroller/issues/789)) ([4f84549](https://github.com/zazos-team/vue-virtual-scroller/commit/4f84549a21e5c0fc059005bff792f9d8c9d5b17f))
+* new `disableTransform` prop to use top/left instead of translate ([#138](https://github.com/zazos-team/vue-virtual-scroller/issues/138)) ([547cf52](https://github.com/zazos-team/vue-virtual-scroller/commit/547cf52264610f79f2b7ab24b6b8d0026e29275e))
+
+
+
 # [2.0.0-beta.8](https://github.com/Akryum/vue-virtual-scroller/compare/v2.0.0-beta.7...v2.0.0-beta.8) (2023-02-06)
 
 
