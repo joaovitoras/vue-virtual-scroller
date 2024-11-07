@@ -1,3 +1,18 @@
+# [2.0.0-beta.10](https://github.com/zazos-team/vue-virtual-scroller/compare/v2.0.0-beta.8...v2.0.0-beta.10) (2024-11-07)
+
+
+### Bug Fixes
+
+* avoid rendering when slot is unused ([#787](https://github.com/zazos-team/vue-virtual-scroller/issues/787)) ([2bd549d](https://github.com/zazos-team/vue-virtual-scroller/commit/2bd549d22f141214e54186d635c248e8bfda53f2))
+* index lost, fix [#783](https://github.com/zazos-team/vue-virtual-scroller/issues/783) ([#784](https://github.com/zazos-team/vue-virtual-scroller/issues/784)) ([4aa6b35](https://github.com/zazos-team/vue-virtual-scroller/commit/4aa6b353ca42b24ac5f8c459920d5df221d3626f))
+
+
+### Features
+
+* items ref ([#789](https://github.com/zazos-team/vue-virtual-scroller/issues/789)) ([4f84549](https://github.com/zazos-team/vue-virtual-scroller/commit/4f84549a21e5c0fc059005bff792f9d8c9d5b17f))
+
+
+
 # [2.0.0-beta.9](https://github.com/zazos-team/vue-virtual-scroller/compare/v2.0.0-beta.8...v2.0.0-beta.9) (2024-11-03)
 
 
